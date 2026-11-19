@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "flutter-frontend-design": {
+      "source": "syeduzaif/flutter-frontend-design",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "fa818b43480823adc6313ad9e65a063220e1fe583c758f883ba98a2db947d723"
+    }
+  }
+}
